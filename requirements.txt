@@ -1,2 +1,5 @@
-numpy==1.22.0
-pandas==1.2.0
+numpy
+pandas
+pytz
+python-dateutil
+
